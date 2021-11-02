@@ -1,4 +1,3 @@
-# saffron_app
 
 
 ### Simplest Flask Recommender
